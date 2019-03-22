@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+
+body {
+background-color: #F29480;
+color: white;
+font-size:20px;
+font-family: "Indie Flower" sans-serif;
+}
+
+h1 {
+  text-transform: capitalize;
+  text-align: center;
+  font-size: 60px;
+  letter-spacing: 1px;
+  font-family: "Indie Flower", sans-serif;
+}
+
+h2 {
+  text-align: center;
+  font-size: 18px;
+  font-weight: normal;
+  font-style: normal;
+  font-family: "Indie Flower", sans-serif;
+}
+
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+li:hover {
+  background-color:gray;
+  text-align: center;
+}
+
+li {
+  display: inline-block;
+}
+
+ul {
+  text-align: center;
+  font-family: "Indie Flower", sans-serif;
+}
+
+P {
+  text-align: center;
+  font-family: "Indie Flower", sans-serif;
+  font-size: 40px;
+}
+
+#navigation {
+    text-align: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    float: left;
+    margin: 0;
+    padding: 0;
+    list-style-type: none; }
